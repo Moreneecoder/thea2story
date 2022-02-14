@@ -1,2 +1,2 @@
 # thea2story
-Gift website fir Arafah and AbdulRoqeeb's wedding
+Gift website for Arafah and AbdulRoqeeb's wedding
